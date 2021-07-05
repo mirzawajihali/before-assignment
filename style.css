@@ -1,0 +1,31 @@
+* {padding: 0%;
+margin: 0;}
+body{
+
+background-image: url(background3.jpg);
+background-repeat: no-repeat;
+background-size: cover;}
+
+.section1 {display: flex;}
+.container {width: 40%;
+             padding: 80px;
+            margin: 50px;}
+.button {background-image: linear-gradient(white, grey);
+        padding: 10px 50px;
+        
+        border-radius: 20px;
+    text-decoration: none;
+        font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+    color: black; }
+
+.container img {width: 80%;
+                float: right;
+            border-radius: 10px;}
+        
+
+
+.big {font-family: 'Bebas Neue', cursive;
+      font-weight: 700;
+    font-size: 55px;
+    color: #fff;}
