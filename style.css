@@ -22,10 +22,21 @@ background-size: cover;}
 .container img {width: 80%;
                 float: right;
             border-radius: 10px;}
-        
+
+
+
 
 
 .big {font-family: 'Bebas Neue', cursive;
       font-weight: 700;
     font-size: 55px;
     color: #fff;}
+.section2 {display: flex;}
+
+    .container2 img {float: left;}
+
+    .container2 {width: 40%;
+        padding: 60px;
+       margin: 60px;
+        float: right;}
+
